@@ -1,1 +1,2 @@
 Esta es la entrega del primer micro proyecto de la materia computación en la nube
+Se deben crear los clusters antes de realizar el aprovisionamiento de las máquinas
